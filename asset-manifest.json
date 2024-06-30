@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77468ead.css",
+    "main.js": "/static/js/main.f48afbea.js",
+    "static/js/453.880af613.chunk.js": "/static/js/453.880af613.chunk.js",
+    "static/media/cover.png": "/static/media/cover.00b9a4eb753e744843ff.png",
+    "static/media/openAI.png": "/static/media/openAI.5315bad5c897e5c26597.png",
+    "static/media/cal.png": "/static/media/cal.364db0567c8c0b959221.png",
+    "static/media/stripe.png": "/static/media/stripe.acab71eb794fea5bfd55.png",
+    "static/media/slack.png": "/static/media/slack.413a2c5a63c64d172943.png",
+    "static/media/zapier.png": "/static/media/zapier.465c3a3190e705740c9e.png",
+    "static/media/manychat.png": "/static/media/manychat.4d0684490f60f64f46d8.png",
+    "static/media/shopify.png": "/static/media/shopify.9529e96528cfad089eff.png",
+    "static/media/voiceFlow.png": "/static/media/voiceFlow.caf76a78a75b40d45f40.png",
+    "static/media/make.png": "/static/media/make.d313cfc3e676bbb32ef9.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.77468ead.css.map": "/static/css/main.77468ead.css.map",
+    "main.f48afbea.js.map": "/static/js/main.f48afbea.js.map",
+    "453.880af613.chunk.js.map": "/static/js/453.880af613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77468ead.css",
+    "static/js/main.f48afbea.js"
+  ]
+}
